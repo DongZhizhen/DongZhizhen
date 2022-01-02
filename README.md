@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DongZhizhen
 - 👀 I’m interested in Optimization
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on something codes
+- 💞️ I’m looking to collaborate for guidance
 - 📫 How to reach me in dongzhizhen05@qq.com
 
 <!---
